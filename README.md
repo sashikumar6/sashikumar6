@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sashikumar--n-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sashikumar-n-9aa646211/)
 [![Email](https://img.shields.io/badge/Gmail-sashikumar.nehrumohan-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sashikumar.nehrumohan@gmail.com)
 
-SF Bay Area. MS in AI/ML.
+Hey, I'm an AI and Software Engineer based in the United States. I completed my undergraduate degree in Computer Science and Engineering in India and earned my master's degree in Computer Science, with a focus on Artificial Intelligence, from the University at Buffalo.
 
-I build agentic AI systems and LLM pipelines for enterprise — RAG, multi-agent orchestration, fine-tuning, and everything in between. I go deep on whatever I'm building.
+I enjoy building practical AI systems, automating manual workflows, and creating useful software. Outside of tech, I love cinema. I'm currently looking for full-time Software and AI Engineering opportunities
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=python&logoColor=white)
