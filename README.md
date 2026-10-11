@@ -1,7 +1,7 @@
 # Hi, I'm Sashi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sashikumar--n-0077B5?style=flat)](https://www.linkedin.com/in/sashikumar-n-9aa646211/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sashikumar.nehrumohan@gmail.com)
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/sashikumar-n-9aa646211/)
+[![Email](./email.svg)](mailto:sashikumar.nehrumohan@gmail.com)
 
 I'm an AI and Software Engineer based in the San Francisco Bay Area. I build practical AI systems, backend services, and automations that reduce manual work, with a focus on AI agents, RAG, and voice applications.
 
@@ -9,9 +9,9 @@ I earned my master's degree in Computer Science from the University at Buffalo, 
 
 Outside of tech, I love cinema. I'm currently looking for **full-time Software and AI Engineering opportunities**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](./python.svg)
+![LangGraph](./langgraph.svg)
+![FastAPI](./fastapi.svg)
+![PyTorch](./pytorch.svg)
+![AWS](./aws.svg)
+![Docker](./docker.svg)
